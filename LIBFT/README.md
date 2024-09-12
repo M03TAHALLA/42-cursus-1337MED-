@@ -1,4 +1,4 @@
-# 🌟 42 cursus (1337MED) 🌟
+# 🌟 LIBFT 🌟
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/M03TAHALLA/42-cursus-1337MED-?color=blue&style=flat-square)
 ![GitHub contributors](https://img.shields.io/github/contributors/M03TAHALLA/42-cursus-1337MED-?color=brightgreen&style=flat-square)
