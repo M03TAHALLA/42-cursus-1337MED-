@@ -1,54 +1,68 @@
-# 42-cursus-1337MED-
-This repository contains the projects and exercises completed as part of the 42 cursus at 1337MED. Each project is designed to build skills in programming, algorithms, system management, and peer-to-peer collaboration. You will find creative and optimized solutions to challenges ranging from basic development to advanced computer science concepts.
+# 🌟 42 cursus (1337MED) 🌟
 
-# 42 cursus (1337MED)
+![GitHub repo size](https://img.shields.io/github/repo-size/M03TAHALLA/42-cursus-1337MED-?color=blue&style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/M03TAHALLA/42-cursus-1337MED-?color=brightgreen&style=flat-square)
+![GitHub license](https://img.shields.io/github/license/M03TAHALLA/42-cursus-1337MED-?color=yellow&style=flat-square)
 
-## Overview
+## 🚀 Overview
 
-This repository contains all the projects and exercises I have completed as part of the **42 cursus** at **1337MED**. The 42 cursus is a rigorous, project-based learning program designed to develop strong problem-solving skills in various domains such as algorithms, software engineering, system programming, and more, without any formal lectures or instructors.
+Welcome to the **42 cursus** repository for **1337MED**! This repo contains all my completed projects, exercises, and solutions from the 42 program. Here, you'll find creative solutions to various programming challenges, built to strengthen my coding skills and develop expertise in key areas like system programming, algorithms, and peer-to-peer collaboration.
 
-## Table of Contents
+---
 
-- [Introduction](#introduction)
-- [Projects](#projects)
-- [Skills Developed](#skills-developed)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+## 📜 Table of Contents
 
-## Introduction
+- [📖 Introduction](#-introduction)
+- [💼 Projects](#-projects)
+- [🛠 Skills Developed](#-skills-developed)
+- [💻 Getting Started](#-getting-started)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
-The **42 cursus** emphasizes peer-to-peer learning and self-driven progress. This repository is a collection of projects that cover various technical concepts such as:
-- Data structures and algorithms
-- Operating systems
-- Shell scripting
-- Network programming
-- Software design and architecture
+---
 
-## Projects
+## 📖 Introduction
 
-Here's a list of key projects in the repository:
+The **42 cursus** offers a unique, self-paced learning environment where students collaborate and learn through project-based tasks. Each project in this repository reflects hours of coding, debugging, and testing. It covers various topics such as:
+- 🧑‍💻 C Programming
+- 🔧 Operating Systems
+- 🔗 Network Programming
+- 🖥️ Algorithms & Data Structures
+- 🧠 Problem Solving
 
-1. **Libft** - A custom C library with essential functions.
-2. **get_next_line** - Reading a line from a file descriptor.
-3. **ft_printf** - Re-creating the printf function in C.
-4. **Cub3D** - A basic 3D game engine project.
-5. **Minishell** - A small shell implementation in C.
+---
 
-And many more, each with its own challenges and learning objectives.
+## 💼 Projects
 
-## Skills Developed
+Here’s a list of some core projects:
 
-Throughout this journey, I have gained valuable skills such as:
-- C programming
-- Algorithm optimization
-- Memory management
-- Debugging and testing
-- Collaborative coding
+| Project       | Description                                                                 |
+| ------------- | --------------------------------------------------------------------------- |
+| **Libft**     | A custom C library with essential functions.                                |
+| **ft_printf** | Recreating the `printf` function in C.                                      |
+| **get_next_line** | Function to read a line from a file descriptor.                         |
+| **Cub3D**     | A basic 3D game engine, inspired by Wolfenstein 3D.                        |
+| **Minishell** | Creating a mini shell with basic command-line functionalities in C.         |
 
-## Getting Started
+Explore each project folder for more information and detailed descriptions!
 
-To explore the projects:
-1. Clone the repository:  
+---
+
+## 🛠 Skills Developed
+
+Through this challenging and self-driven learning experience, I have gained expertise in:
+- 🖥️ Low-level programming (C)
+- 🔄 Algorithm optimization
+- 📂 Memory management and file handling
+- 🛠 Debugging and testing techniques
+- 🤝 Peer-to-peer collaboration
+
+---
+
+## 💻 Getting Started
+
+To get a local copy up and running, follow these steps:
+
+1. **Clone the repository**:  
    ```bash
    git clone https://github.com/M03TAHALLA/42-cursus-1337MED-.git
