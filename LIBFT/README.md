@@ -38,13 +38,16 @@ The library implements the following categories of functions:
 - `ft_isalpha`, `ft_isdigit`, `ft_isalnum`, `ft_isascii`, `ft_isprint`
 
 ### Conversions
-- `ft_atoi`, `ft_itoa`, `ft_toupper`, `ft_tolower`
+- `ft_atoi`,`ft_toupper`, `ft_tolower`
+
+### String Manipulation 2 (Additional Functions)
+- `ft_substr`, `ft_strjoin`, `ft_strtrim`, `ft_split`, `ft_itoa`, `ft_strmapi`
+
+### File Descriptor Output Functions (Additional Functions)
+- `ft_putchar_fd`, `ft_putstr_fd`, `ft_putendl_fd`, `ft_putnbr_fd`
 
 ### Linked Lists (Optional)
 - `ft_lstnew`, `ft_lstadd_front`, `ft_lstsize`, `ft_lstlast`, `ft_lstdelone`, `ft_lstclear`
-
-### File Descriptor Output Functions
-- `ft_putchar_fd`, `ft_putstr_fd`, `ft_putendl_fd`, `ft_putnbr_fd`,
 ---
 
 ## 🚀 Installation
