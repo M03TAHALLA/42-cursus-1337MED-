@@ -2,5 +2,5 @@
 #include <stdio.h>
 int main()
 {
-	 ft_putchar_fd('C', 1);
+	 ft_putstr_fd("Hello",1);
 }
