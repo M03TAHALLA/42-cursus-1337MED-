@@ -94,20 +94,3 @@ To use this library in your project, follow these steps:
 
 - **Tahalla Mohammed**  
   GitHub: [@M03TAHALLA](https://github.com/M03TAHALLA)
-
----
-
-<p align="center">
-  <b>Project Link: </b><a href="https://github.com/M03TAHALLA/42-cursus-1337MED-.git">LIBFT GitHub Repository</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/M03TAHALLA/42-cursus-1337MED-?style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/M03TAHALLA/42-cursus-1337MED-?style=social" alt="GitHub Forks" />
-</p>
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
