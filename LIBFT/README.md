@@ -79,6 +79,6 @@ To use this library in your project, follow these steps:
    ```bash
    gcc -Wall -Wextra -Werror your_file.c -L. -lft -o your_program
    ```
-     -L. tells the compiler to look for the library in the current directory.
-     -lft links the libft.a library.
+   - `L.` tells the compiler to look for the library in the current directory.
+   - `- lft` links the libft.a library.
    
