@@ -58,8 +58,10 @@ Clone the repository and compile the library using the Makefile:
 git clone https://github.com/M03TAHALLA/42-cursus-1337MED-.git
 cd 42-cursus-1337MED-/LIBFT
 make
-
+```
 ----
+
+
 ## 📦 Usage
 
 To use this library in your project, follow these steps:
@@ -69,4 +71,12 @@ To use this library in your project, follow these steps:
    
    ```c
    #include "libft.h"
-
+   ```
+   
+2. **Link the Library During Compilation**  
+   When compiling your project, make sure to link the libft.a file. Here's an example of how to do this using `gcc`:
+   
+   ```bash
+   gcc -Wall -Wextra -Werror your_file.c -L. -lft -o your_program
+   ```
+   
