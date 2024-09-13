@@ -58,3 +58,15 @@ Clone the repository and compile the library using the Makefile:
 git clone https://github.com/M03TAHALLA/42-cursus-1337MED-.git
 cd 42-cursus-1337MED-/LIBFT
 make
+
+----
+## 📦 Usage
+
+To use this library in your project, follow these steps:
+
+1. **Include the Header File**  
+   In your source file, include the `libft.h` header to access the functions from the library:
+   
+   ```c
+   #include "libft.h"
+
