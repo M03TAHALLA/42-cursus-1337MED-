@@ -32,7 +32,7 @@ The library implements the following categories of functions:
 - `ft_memset`, `ft_bzero`, `ft_memcpy`, `ft_memccpy`, `ft_memmove`, `ft_memchr`, `ft_memcmp`
 
 ### String Manipulation
-- `ft_strlen`, `ft_strcpy`, `ft_strncpy`, `ft_strcat`, `ft_strncat`, `ft_strchr`, `ft_strrchr`, `ft_strdup`
+- `ft_strlen`, `ft_strlcpy`, `ft_strlcat`, `ft_strnstr`, `ft_strchr`, `ft_strrchr`, `ft_strdup`, `ft_strncmp`, `ft_calloc`
 
 ### Character Checks
 - `ft_isalpha`, `ft_isdigit`, `ft_isalnum`, `ft_isascii`, `ft_isprint`
@@ -43,6 +43,8 @@ The library implements the following categories of functions:
 ### Linked Lists (Optional)
 - `ft_lstnew`, `ft_lstadd_front`, `ft_lstsize`, `ft_lstlast`, `ft_lstdelone`, `ft_lstclear`
 
+### File Descriptor Output Functions
+- `ft_putchar_fd`, `ft_putstr_fd`, `ft_putendl_fd`, `ft_putnbr_fd`,
 ---
 
 ## 🚀 Installation
@@ -51,5 +53,5 @@ Clone the repository and compile the library using the Makefile:
 
 ```bash
 git clone https://github.com/M03TAHALLA/42-cursus-1337MED-.git
-cd 42-cursus-1337MED-/libft
+cd 42-cursus-1337MED-/LIBFT
 make
