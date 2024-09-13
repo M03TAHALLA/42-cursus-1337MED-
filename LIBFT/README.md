@@ -81,4 +81,10 @@ To use this library in your project, follow these steps:
    ```
    - `L.` tells the compiler to look for the library in the current directory.
    - `- lft` links the libft.a library.
+
+3. **Run Your Program**  
+   After successfully compiling, run your program as usual:
    
+   ```bash
+   ./your_program
+   ```
