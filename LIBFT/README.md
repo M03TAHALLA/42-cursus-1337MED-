@@ -77,7 +77,7 @@ To use this library in your project, follow these steps:
    When compiling your project, make sure to link the libft.a file. Here's an example of how to do this using `gcc`:
    
    ```bash
-   gcc -Wall -Wextra -Werror your_file.c -L. -lft -o your_program
+   gcc -Wall -Wextra -Werror main.c -L. -lft -o main
    ```
    - `L.` tells the compiler to look for the library in the current directory.
    - `- lft` links the libft.a library.
@@ -86,7 +86,7 @@ To use this library in your project, follow these steps:
    After successfully compiling, run your program as usual:
    
    ```bash
-   ./your_program
+   ./main
    ```
 ---
 
