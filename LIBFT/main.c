@@ -2,5 +2,11 @@
 #include <stdio.h>
 int main()
 {
-	 ft_putnbr_fd(125,1);
+	int a = 50;
+    void *content = &a;
+    t_list *list = ft_lstnew(content);
+    
+    printf("%d",*(int *)(list->content));
+
+    return 0;
 }
