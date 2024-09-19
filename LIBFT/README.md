@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/proxy/kaskFs0kmqsC-z-JVDzoG_AVDPH05QjfWn_Q6RKT3jPXe9nipn4szvJTvaDAP4eaGkfy7DFgEO3sNfWFgDqAkaWP3l1KHSo" alt="42 Logo" width="200px" />
+  <img src="https://lh3.googleusercontent.com/proxy/s_4VtY71nkymiTcQvNZKBAluQAcMVNjxC2-VZ22XlMo10Gw-qLD0HRjz9CXD1KX6VitNQVWiTv59nahp94hkdXx-lf7APUw" alt="42 Logo" width="200px" />
 </p>
 
 <h1 align="center">LIBFT - 42 Cursus</h1>
@@ -77,7 +77,7 @@ To use this library in your project, follow these steps:
    When compiling your project, make sure to link the libft.a file. Here's an example of how to do this using `gcc`:
    
    ```bash
-   gcc -Wall -Wextra -Werror your_file.c -L. -lft -o your_program
+   gcc -Wall -Wextra -Werror main.c -L. -lft -o main
    ```
    - `L.` tells the compiler to look for the library in the current directory.
    - `- lft` links the libft.a library.
@@ -86,7 +86,7 @@ To use this library in your project, follow these steps:
    After successfully compiling, run your program as usual:
    
    ```bash
-   ./your_program
+   ./main
    ```
 ---
 
