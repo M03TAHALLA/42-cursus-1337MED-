@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://www.info-jeunesse16.com/cij-angouleme-une-actualite-charente/emploi/ouverture-de-l-ecole-42-l-ecole-des-developpeurs-web" alt="42 Logo" width="200px" />
+  <img src="https://www.info-jeunesse16.com/images/ImagesUpload/actus/3719-2320.jpg" alt="42 Logo" width="200px" />
 </p>
 
 <h1 align="center">LIBFT - 42 Cursus</h1>
