@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/proxy/ox9JhUjRHbU4moTG_rWY8-b7YN4fXFHjmeQ572sM-060tB7PgVh6f-CxSQpBaozwQWMu6MMNaYU9g81Iu4lHI4iinxb55fQ" alt="42 Logo" width="200px" />
-</p>
+
 
 <h1 align="center">LIBFT - 42 Cursus</h1>
 
