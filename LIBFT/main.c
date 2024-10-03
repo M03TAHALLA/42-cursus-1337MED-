@@ -1,30 +1,52 @@
-#include "libft.h" // Assurez-vous que ce fichier d'en-tête contient les prototypes des fonctions que vous utilisez.
 #include <stdio.h>
+#include "libft.h"
+int main() {
+    
 
-int main(void)
-{
-    t_list *head = NULL; // Déclaration de la liste vide
-    t_list *new_node1;
-    t_list *new_node2;
-    t_list *new_node3;
+    char *c1 = malloc(sizeof(char));
+    char *c2 = malloc(sizeof(char));
+    int *c3 = malloc(sizeof(int));
+    int *c4 = malloc(sizeof(int));
 
-    // Allocation de la mémoire et initialisation des noeuds
-    new_node1 = ft_lstnew("Node 1");
-    new_node2 = ft_lstnew("Node 2");
-    new_node3 = ft_lstnew("Node 3");
 
-    // Ajout de noeuds au début de la liste
-    ft_lstadd_front(&head, new_node1);
-    ft_lstadd_front(&head, new_node2);
-    ft_lstadd_front(&head, new_node3);
+    *c1 = 'e';
+    *c2 = 'd';
+    *c3 = 'f';
+    *c4 = 'k';
 
-    // Impression de la liste pour vérifier
-    t_list *tmp = head;
-    while (tmp)
-    {
-        printf("%s\n", (char *)tmp->content);
-        tmp = tmp->next;
+    t_list *node1 = ft_lstnew(c1);
+    t_list *node2 = ft_lstnew(c2);
+    t_list *node3 = ft_lstnew(c3);
+    t_list *node4 = ft_lstnew(c4);
+    t_list *head = NULL; // Initialize head to NULL
+    
+    head = node1;
+    
+    node1->next = node2;
+    node2->next = node3;
+    node3->next = NULL;
+    
+    ft_lstadd_front(&head,node4);
+
+    t_list *ptr = head;
+    while (ptr != NULL) {
+        printf("%c\n", *(char *)(ptr->content)); // Cast content to char* and dereference
+        ptr = ptr->next;
     }
+    t_list *lastnode = ft_lstlast(head);
+    printf("%c\n", *(char *)(lastnode->content));
+    
+    int count = ft_lstsize(head);
+    printf("%d",count);
+
+    // Free allocated memory
+    free(c1);
+    free(c2);
+    free(c3);
+    free(node1);
+    free(node2);
+    free(node3);
 
     return 0;
 }
+
