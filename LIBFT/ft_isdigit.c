@@ -1,9 +1,22 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_isdigit.c                                       :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: mtahalla <mtahalla@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2024/10/21 19:26:59 by mtahalla          #+#    #+#             */
+/*   Updated: 2024/11/04 13:59:43 by mtahalla         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "libft.h"
 
-int ft_isdigit(int c)
+int	ft_isdigit(int c)
 {
-	unsigned char num = (unsigned char)c;
-	if(num >= '0' && num <= '9')
-		return 1;
-	return 0;
+	if (c >= 48 && c <= 57)
+	{
+		return (1);
+	}
+	return (0);
 }

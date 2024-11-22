@@ -1,9 +1,24 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_putstr_fd.c                                     :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: mtahalla <mtahalla@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2024/10/27 17:00:25 by mtahalla          #+#    #+#             */
+/*   Updated: 2024/11/07 12:20:35 by mtahalla         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "libft.h"
 
-void ft_putstr_fd(char *s, int fd)
+void	ft_putstr_fd(char *s, int fd)
 {
-	while(*s != '\0'){
-		ft_putchar_fd(*s,fd);
+	if (fd < 0 || s == NULL)
+		return ;
+	while (*s != '\0')
+	{
+		write(fd, s, 1);
 		s++;
 	}
 }
