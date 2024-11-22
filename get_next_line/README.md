@@ -101,7 +101,7 @@ Le mode bonus permet la gestion simultanée de plusieurs descripteurs de fichier
 
 ## 🖋️ Auteur  
 
-Projet réalisé par **[Votre Nom ou Identifiant 42]**.  
+Projet réalisé par **[Tahalla Mohammed]**.  
 
 ---
 
