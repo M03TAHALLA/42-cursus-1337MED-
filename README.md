@@ -38,7 +38,7 @@ Here’s a list of some core projects:
 | ------------- | --------------------------------------------------------------------------- |
 | [**LIBFT**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/LIBFT)     | A custom C library with essential functions.                                |
 | **ft_printf** | Recreating the `printf` function in C.                                      |
-| **get_next_line** | Function to read a line from a file descriptor.                         |
+| [**get_next_line**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/get_next_line) | Function to read a line from a file descriptor.                         |
 | **Cub3D**     | A basic 3D game engine, inspired by Wolfenstein 3D.                        |
 | **Minishell** | Creating a mini shell with basic command-line functionalities in C.         |
 
