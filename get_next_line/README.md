@@ -38,7 +38,8 @@ Get Next Line est un projet clé de la formation 42. Il met au défi les étudia
 ### Clonage du dépôt  
 
 ```bash
-git clone <lien_du_dépôt>
+git clone [<lien_du_dépôt>](https://github.com/M03TAHALLA/42-cursus-1337MED-.git 42-cursur
+cd 42-cursur
 cd get_next_line
 ```  
 
