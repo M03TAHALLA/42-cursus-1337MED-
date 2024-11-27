@@ -1,70 +1,47 @@
+# 📝 ft_printf  
 
-# ft_printf
-
-`ft_printf` est une ré-implémentation personnalisée de la fonction standard `printf` de la bibliothèque C. Ce projet fait partie des défis du cursus 42 et met l'accent sur la compréhension approfondie des fonctions variadiques, de la gestion de la mémoire et de la construction d'une bibliothèque C efficace.
-
-## Fonctionnalités
-
-- Support des conversions classiques telles que :
-  - `%c` : caractères
-  - `%s` : chaînes de caractères
-  - `%p` : adresses mémoire
-  - `%d` / `%i` : entiers décimaux
-  - `%u` : entiers non signés
-  - `%x` / `%X` : entiers hexadécimaux (minuscule/majuscule)
-- Gestion robuste des entrées avec des comportements similaires à la fonction standard.
-
-## Structure du Projet
-
-- **Fichiers source** :
-  - `base_nbr.c` : Gestion des conversions de bases numériques.
-  - `ft_printf.c` : Implémentation principale de la fonction `ft_printf`.
-  - `ft_putadd.c`, `ft_putchar.c`, `ft_putnbr.c`, `ft_putstr.c` : Fonctions utilitaires pour afficher des données.
-  - `ft_strlen.c` : Calcul de la longueur d'une chaîne.
-- **Fichier d'en-tête** : `ft_printf.h`
-- **Makefile** : Automatisation de la compilation avec des règles standard (`all`, `clean`, `fclean`, `re`).
-
-## Compilation
-
-Pour compiler le projet, utilisez simplement la commande suivante :
-
-```bash
-make
-```
-
-Cela générera un fichier exécutable ou une bibliothèque selon votre configuration.
-
-## Utilisation
-
-Incluez `ft_printf.h` dans vos fichiers et utilisez `ft_printf` comme vous le feriez avec la fonction standard `printf`.
-
-Exemple :
-
-```c
-#include "ft_printf.h"
-
-int main(void) {
-    ft_printf("Hello, %s!\n", "World");
-    return 0;
-}
-```
-
-## Objectifs pédagogiques
-
-Ce projet vise à :
-
-- Renforcer la compréhension des fonctions variadiques.
-- Approfondir la manipulation des pointeurs et des chaînes en C.
-- Mettre en pratique des concepts de gestion de projet avec `Makefile`.
-
-## Contribution
-
-Les contributions sont les bienvenues. N'hésitez pas à proposer des améliorations ou à signaler des problèmes via des issues sur le [dépôt GitHub](https://github.com/M03TAHALLA/42-cursus-1337MED-).
-
-## Licence
-
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
+**ft_printf** est un projet clé de la formation 42, où les étudiants recréent leur propre version de la fonction standard `printf`. Ce projet met en avant la compréhension de la manipulation de chaînes, des conversions et des spécifications de format.  
 
 ---
 
-Fait avec ❤️ dans le cadre du cursus 42.
+## 📚 Table des Matières  
+- [Aperçu](#aperçu)  
+- [Fonctionnalités](#fonctionnalités)  
+- [Installation](#installation)  
+- [Guide d'Utilisation](#guide-dutilisation)  
+- [Structure du Projet](#structure-du-projet)  
+- [Auteur](#auteur)  
+
+---
+
+## 🧐 Aperçu  
+
+`ft_printf` est une implémentation personnalisée de la fonction standard C `printf`.  
+- Elle gère plusieurs spécificateurs de format tels que `%c`, `%s`, `%p`, `%d`, `%i`, `%u`, `%x`, et `%X`.  
+- Elle garantit une gestion efficace des buffers et respecte les contraintes de gestion mémoire.  
+
+---
+
+## ✨ Fonctionnalités  
+
+- **Spécifications de format prises en charge** :  
+  - Caractère : `%c`  
+  - Chaîne : `%s`  
+  - Adresse mémoire : `%p`  
+  - Entiers signés : `%d`, `%i`  
+  - Entiers non signés : `%u`  
+  - Hexadécimal : `%x`, `%X`  
+
+- **Précision et largeur** : Prise en charge des modificateurs pour le formatage avancé.  
+- **Portabilité** : Compatible avec divers environnements grâce à une conception robuste.  
+
+---
+
+## 🚀 Installation  
+
+### Clonage du dépôt  
+
+```bash
+git clone https://github.com/M03TAHALLA/42-cursus-1337MED-.git 42-cursur
+cd 42-cursur
+cd ft_printf
