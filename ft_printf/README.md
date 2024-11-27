@@ -45,3 +45,49 @@
 git clone https://github.com/M03TAHALLA/42-cursus-1337MED-.git 42-cursur
 cd 42-cursur
 cd ft_printf
+```  
+
+### Compilation  
+
+- Compilez avec la taille de buffer souhaitée :  
+
+```bash
+gcc -Wall -Wextra -Werror ft_printf.c -o ft_printf
+```  
+
+- Vous pouvez également intégrer ft_printf dans vos projets en ajoutant les fichiers source nécessaires.  
+
+---
+
+## 🛠️ Guide d'Utilisation  
+
+Voici un exemple d'utilisation simple :  
+
+```c
+#include "ft_printf.h"
+
+int main(void)
+{
+    ft_printf("Bonjour, %s! Vous avez %d points.\n", "Tahalla", 100);
+    return (0);
+}
+```
+
+---
+
+## 🗂️ Structure du Projet  
+
+- **`ft_printf.c`** : Contient l'implémentation principale de la fonction.  
+- **`ft_printf.h`** : Fichier d'en-tête avec les prototypes et les définitions.
+- **`Makefile`** : Makefile pour Compiler Functions Utils Et archive ...
+
+---
+
+
+## 🖋️ Auteur  
+
+Projet réalisé par **[Tahalla Mohammed]**.  
+
+---
+
+**Note** : Ce projet a été validé avec un score parfait de **100/100**.
