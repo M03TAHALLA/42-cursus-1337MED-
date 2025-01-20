@@ -1,5 +1,7 @@
 **so_long** is a 2D game developed as part of the 42 cursus. The player navigates through a map, collects coins, and tries to avoid or defeat enemies. The goal is to collect all the coins and reach the exit to win the game. This project has been validated with a perfect score of 125/125. 🌟
+
 ![so_long Gameplay](https://github.com/M03TAHALLA/42-cursus-1337MED-/blob/main/so_long/so_long.png)
+
 ## Validation Details
 - **Project Score:** 125/125 🎯
 
