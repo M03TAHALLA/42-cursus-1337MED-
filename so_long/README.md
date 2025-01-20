@@ -7,8 +7,6 @@
 
 ## Features 🛠️ 🌟
 
-## Features 🛠️
-
 - **Player Movement:** The player can move in four directions (up, down, left, right).
 - **Coin Collection:** The player collects coins scattered throughout the map.
 - **Enemy Interaction:** The player can be defeated by enemies, leading to a game over.
