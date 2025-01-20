@@ -55,9 +55,7 @@
 
 ## Video Demonstration 🎥
 
-```bash
-   [./so_long maps/maps_valid/(choose your map)](https://www.youtube.com/watch?v=IcsSIw_Fiw4)
-   ```
+[**YOUTUBE <i class="fi fi-brands-youtube"></i>**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/LIBFT)
 
 
 ## Development Details 🌐
