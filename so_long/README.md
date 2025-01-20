@@ -20,7 +20,7 @@
 - **⬆️:** Move up
 - **⬅️:** Move left
 - **⬇️:** Move down
-- ** ➡️ :** Move right
+- **➡️:** Move right
 - **ESC:** Quit the game
 
 ### Objective 🌐
