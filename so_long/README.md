@@ -55,9 +55,9 @@
 
 ## Video Demonstration 🎥
 
-<video src="https://github.com/M03TAHALLA/42-cursus-1337MED-/blob/main/so_long/so_long.mp4" controls width="640" height="360">
-    Your browser does not support the video tag.
-</video>
+```bash
+   [./so_long maps/maps_valid/(choose your map)](https://www.youtube.com/watch?v=IcsSIw_Fiw4)
+   ```
 
 
 ## Development Details 🌐
