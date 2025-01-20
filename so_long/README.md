@@ -50,7 +50,7 @@
    ```
 4. Run the game:
    ```bash
-   ./so_long maps/map.ber
+   ./so_long maps/maps_valid/(choose your map)
    ```
 
 ## Video Demonstration 🎥
