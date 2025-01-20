@@ -55,7 +55,10 @@
 
 ## Video Demonstration 🎥
 
-A video demonstrating the gameplay will be added here. 📽️
+<video src="https://github.com/M03TAHALLA/42-cursus-1337MED-/blob/main/so_long/so_long.mp4" controls width="640" height="360">
+    Your browser does not support the video tag.
+</video>
+
 
 ## Development Details 🌐
 
