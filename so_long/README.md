@@ -64,3 +64,7 @@
 
 ### Challenges ⚔️
 Developing **so_long** involved implementing efficient game mechanics and ensuring smooth player interactions within a graphical interface.
+
+## 🖋️ Auteur  
+
+Projet réalisé par **[Tahalla Mohammed]**.  
