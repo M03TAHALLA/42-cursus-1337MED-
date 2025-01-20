@@ -55,7 +55,7 @@
 
 ## Video Demonstration 🎥
 
-[**YOUTUBE <i class="fi fi-brands-youtube"></i>**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/LIBFT)
+[**Game Record  🔴🎮</i>**]((https://www.youtube.com/watch?v=IcsSIw_Fiw4))
 
 
 ## Development Details 🌐
