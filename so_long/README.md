@@ -17,10 +17,10 @@
 ## Gameplay 📺
 
 ### Controls 🎮
-- **W:** Move up
-- **A:** Move left
-- **S:** Move down
-- **D:** Move right
+- **⬆️:** Move up
+- **⬅️:** Move left
+- **⬇️:** Move down
+- ** ➡️ :** Move right
 - **ESC:** Quit the game
 
 ### Objective 🌐
