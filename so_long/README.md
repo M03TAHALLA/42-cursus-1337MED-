@@ -55,7 +55,7 @@
 
 ## Video Demonstration 🎥
 
-[**Game Record  🔴🎮</i>**]((https://www.youtube.com/watch?v=IcsSIw_Fiw4))
+[**Game Record  🔴🎮**]((https://www.youtube.com/watch?v=IcsSIw_Fiw4))
 
 
 ## Development Details 🌐
