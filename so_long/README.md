@@ -65,7 +65,3 @@ A video demonstrating the gameplay will be added here. 📽️
 
 ### Challenges ⚔️
 Developing **so_long** involved implementing efficient game mechanics and ensuring smooth player interactions within a graphical interface.
-
-## License 🗃️
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
