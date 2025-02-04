@@ -39,8 +39,8 @@ Here’s a list of some core projects:
 | [**LIBFT**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/LIBFT)     | A custom C library with essential functions.                                |
 | [**ft_printf**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/ft_printf) | Recreating the `printf` function in C.                                      |
 | [**get_next_line**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/get_next_line) | Function to read a line from a file descriptor.                         |
-| [**so_long**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/so_long) | A sorting algorithm challenge                         |
-| [**push_swap**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/push_swap) | A basic 2D game Created by minilibx                         |
+| [**so_long**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/so_long) | A basic 2D game Created by minilibx                         |
+| [**push_swap**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/push_swap) | A sorting algorithm challenge                        |
 | **Cub3D**     | A basic 3D game engine, inspired by Wolfenstein 3D.                        |
 | **Minishell** | Creating a mini shell with basic command-line functionalities in C.         |
 
