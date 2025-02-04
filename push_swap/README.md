@@ -70,10 +70,6 @@ $ ./push_swap "3 2 5 1 4"
 
 ---
 
-## 🎥 Demo
-[![Watch the Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
----
 
 ## 💡 Key Learning Points
 - **Algorithm Complexity:** Understanding time and space complexity.
