@@ -41,6 +41,7 @@ Here’s a list of some core projects:
 | [**get_next_line**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/get_next_line) | Function to read a line from a file descriptor.                         |
 | [**so_long**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/so_long) | A basic 2D game Created by minilibx                         |
 | [**push_swap**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/push_swap) | A sorting algorithm challenge                        |
+| [**pipex**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/pipex) | Program takes multiple commands and processes them like shell pipeline                       |
 | **Cub3D**     | A basic 3D game engine, inspired by Wolfenstein 3D.                        |
 | **Minishell** | Creating a mini shell with basic command-line functionalities in C.         |
 
