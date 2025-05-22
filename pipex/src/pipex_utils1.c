@@ -6,7 +6,7 @@
 /*   By: mtahalla <mtahalla@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/10 13:40:04 by mtahalla          #+#    #+#             */
-/*   Updated: 2025/03/05 16:58:31 by mtahalla         ###   ########.fr       */
+/*   Updated: 2025/05/15 10:30:05 by mtahalla         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,7 +40,10 @@ static void	execute_command(char *cmd, char **env)
 	char	**args;
 	char	*path;
 
+	printf("%s\n",cmd);
 	args = ft_split_args(cmd, ' ');
+	printf("%s\n",args[0]);
+	printf("%s\n",args[1]);
 	if (!args)
 		exit(EXIT_FAILURE);
 	path = ft_get_path(args[0], env, 0);
