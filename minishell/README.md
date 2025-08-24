@@ -246,9 +246,9 @@ minishell/
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/your-username">
-<img src="https://github.com/your-username.png" width="100px;" alt=""/><br />
-<sub><b>Your Name</b></sub>
+<a href="https://github.com/M03TAHALLA">
+<img src="https://github.com/M03TAHALLA.png" width="100px;" alt=""/><br />
+<sub><b>mtahalla</b></sub>
 </a><br />
 <sub>🏗️ Architecture & Core Development</sub>
 </td>
