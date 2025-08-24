@@ -43,7 +43,7 @@ Here’s a list of some core projects:
 | [**push_swap**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/push_swap) | A sorting algorithm challenge                        |
 | [**pipex**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/pipex) | Program takes multiple commands and processes them like shell pipeline                       |
 | **Cub3D**     | A basic 3D game engine, inspired by Wolfenstein 3D.                        |
-| **Minishell** | Creating a mini shell with basic command-line functionalities in C.         |
+| [**Minishell**](https://github.com/M03TAHALLA/42-cursus-1337MED-/tree/main/minishell) | Creating a mini shell with basic command-line functionalities in C.         |
 
 Explore each project folder for more information and detailed descriptions!
 
